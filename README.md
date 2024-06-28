@@ -16,6 +16,20 @@
 ## ILOSTAT
 - R package: `Rilostat`
 
+## O*NET
+- <https://www.onetonline.org/>
+
+
+## Bureau of Economic Analysis (BEA)
+- <https://github.com/CommerceDataService/eu.us.opendata.git>
+- [BLS KLEMS dataset](https://www.bea.gov/data/special-topics/integrated-industry-level-production-account-klems)
+
+
+## Integrated Public Use Microdata Series, Current Population Survey(IPUMS)
+- <https://libguides.wellesley.edu/c.php?g=103349&p=7780171>
+- How To: Download IPUMS Data & open it in Stata <https://libguides.wellesley.edu/ld.php?content_id=30395272>
+
+
 
 ## FRED 
 - R: [fredr](https://cran.r-project.org/web/packages/fredr/vignettes/fredr.html)
@@ -24,3 +38,7 @@
 
 ## Others
 - Firm-level Productivity <https://feb.kuleuven.be/public/n07057/China/> 
+- Virtual Course on "Data in Macro Development" <https://steg.cepr.org/events/virtual-course-data-macro-development>
+- LFS data <https://www.lfsdata.com/home> and detailed description <https://drive.google.com/file/d/1tG7DOaTrCjm-xST5ivpglJ48zk1cFFoQ/view>
+- Barro-Lee Data
+- Analyze Survey Data For Free<https://asdfree.com/>
