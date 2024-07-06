@@ -6,4 +6,4 @@
 
 - ![](scatter_plot.png)
 
-- The original code can be found [here](init.jl)
+- The original code using `Julia` can be found [here](init.jl)
